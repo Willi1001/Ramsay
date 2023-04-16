@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\bin\Debug\net5.0\LogicaDeNegocio.deps.json
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\bin\Debug\net5.0\LogicaDeNegocio.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\bin\Debug\net5.0\ref\LogicaDeNegocio.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\bin\Debug\net5.0\LogicaDeNegocio.pdb
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\bin\Debug\net5.0\AccesoDatos.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\bin\Debug\net5.0\AccesoDatos.pdb
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\ref\LogicaDeNegocio.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\LogicaDeNegocio\obj\Debug\net5.0\LogicaDeNegocio.pdb

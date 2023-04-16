@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\bin\Debug\net5.0\AccesoDatos.deps.json
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\bin\Debug\net5.0\AccesoDatos.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\bin\Debug\net5.0\ref\AccesoDatos.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\bin\Debug\net5.0\AccesoDatos.pdb
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\ref\AccesoDatos.dll
+C:\Users\USUARIO\Documents\Documents\Documentos Willi D\Pruebas tecnicas empresas\ramsay\Back1\Back\AccesoDatos\obj\Debug\net5.0\AccesoDatos.pdb
